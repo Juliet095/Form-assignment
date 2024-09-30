@@ -1,0 +1,116 @@
+# {
+    margin: 0;
+    padding: 50px;
+}
+.main {
+    width: 80px;;
+    background:linear-gradient( to top, rgba(0,0,0,0.5) 50%),rgba(0,0,0,0.5)50%(1.jpg);
+    background-position: center;
+    background-size: 90px;
+    height: 90vh;
+}
+.navbar {
+     width: 1200px;
+     height: 75px;
+     margin: auto;
+}
+     .icon{
+        width: 200px;
+        float: left;
+        height: 70px;
+     }
+     .logo{
+        color: orangered;
+        font-size: 35px;
+        font-family: Arial;
+        padding-left: 20px;
+        float: left;
+        padding-top: 20px;
+     }
+     ul{
+        float: left;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+     }
+     ul li{
+        list-style: none;
+        margin-left: 52px;
+        margin: top 17px;
+        font-size: 14px;
+     }
+     ul li a{
+        text-decoration: none;
+        color: #fff;
+        font-family: Arial;
+        font-weight: bold;
+        transition: o.4s   ease-out;
+     }
+     
+     
+     .search{
+        width: 330px;
+        float: right-end;
+        margin-left: 279px;
+     }
+    .srch{
+        font-family:  'Times New Roman';
+        width: 200px;
+        height: 40px;
+        background: transparent;
+        boarder:1px solid #ff7200;
+        margin-top: 10px;
+        color: #fff;
+        border-right: none;
+        font-size: 16px;
+        float: left;
+        padding: 10px;
+        border-bottom-left-radius: 5px;
+        border: top left radius 5px;
+    }
+    .btn{
+        width: 100px;
+        height: 40px;
+        background:#ff7200;
+        border:2px solid #ff72
+        color:white;
+        border-bottom: 5px;
+        border-bottom : 5px;}
+        
+     .btn focus{
+        outline: none;
+
+     }
+     .srch focus{
+        outline: none;
+     }
+   button{
+    color: #ff7200;
+    background-color: #ff7200;
+   }
+.form{
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 150px;
+    width: 250px;
+    background: linear-gradient(to top black)50%( black)50%;
+    position: absolute;
+    top: -0.10px;
+    left: 870px;
+    padding: 25px;
+}
+.h2{
+   width: 220px;
+   font-family: sans-serif;
+   text-align: center;
+   color: orangered;
+   font-size: 22px;
+   background-color: white;
+   border-radius: ;
+}
+.content:{
+   top: -20px;
+}
+#body {
+   background-size: auto;
+}
